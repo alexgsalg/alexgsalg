@@ -4,7 +4,7 @@ Hello Everyone,
 <p>I'm a <strong>Front-end developer</strong>, <strong>Designer UI</strong> and <strong>HubTech Creator</strong> from Brazil that Loves CSS and teaching others what I know:</p>
 
 <div style="margin-top:50px;">
-<h3>Front-end technologies that I work with:</h3>
+<h3>Technologies that I work with:</h3>
 <!-- Badges Front-end -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-right:10px; margin-bottom:10px;"/> 
