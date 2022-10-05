@@ -27,11 +27,6 @@ Hello Everyone,
 </div>
 
 </br>
-
-[![card](https://github-readme-stats.vercel.app/api?username=alexgsalg&theme=dark)](https://github.com/alexgsalg/)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgsalg&hide=html&layout=compact&theme=dark)](https://github.com/alexgsalg/)
-
 ---
 
 <div style="width:50%;">
