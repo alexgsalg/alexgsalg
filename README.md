@@ -29,13 +29,12 @@ Hello Everyone,
 </br>
 ---
 
-<div style="width:50%;">
+<!-- <div style="width:50%;">
 <h3>
 Currently I'm studying:
 </h3>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Angular" style="margin-right:10px; margin-bottom:10px;"/>
-</div>
+</div> -->
 
 <div style="width:50%;">
 <h3>Design UI:</h3>
@@ -52,10 +51,10 @@ Currently I'm studying:
 <div style="margin-top:20px;">
 <h3>Connect with me:</h3>
 <!-- Badges Front-end --> 
-<a href="https://www.linkedin.com/in/alex-salgado-33507b4b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Illustrator" style="margin-right:10px; margin-bottom:10px;"/></a>
-<a href="https://twitter.com/AlextSalg"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Illustrator" style="margin-right:10px; margin-bottom:10px;"/></a>
-<a href="https://www.twitch.tv/alexdrogo_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Illustrator" style="margin-right:10px; margin-bottom:10px;"/></a>
-<a href="https://medium.com/@alextsalg"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Illustrator" style="margin-right:10px; margin-bottom:10px;"/></a>
-<a href="https://dev.to/alextsalg"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Illustrator" style="margin-right:10px; margin-bottom:10px;"/></a>
+<a href="https://www.linkedin.com/in/alexgsalgado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="margin-right:10px; margin-bottom:10px;"/></a>
+<a href="https://twitter.com/AlextSalg"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-right:10px; margin-bottom:10px;"/></a>
+<a href="https://www.twitch.tv/alexdrogo_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch" style="margin-right:10px; margin-bottom:10px;"/></a>
+<a href="https://medium.com/@alextsalg"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-right:10px; margin-bottom:10px;"/></a>
+<a href="https://dev.to/alextsalg"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" style="margin-right:10px; margin-bottom:10px;"/></a>
 
 </div>
