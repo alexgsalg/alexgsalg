@@ -6,13 +6,20 @@ Hello Everyone,
 <div style="margin-top:50px;">
 <h3>Technologies that I work with:</h3>
 <!-- Badges Front-end -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="margin-right:10px; margin-bottom:10px;"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" style="margin-right:10px; margin-bottom:10px;"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge//TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JS" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" style="margin-right:10px; margin-bottom:10px;"/>
+  <br />
+  
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQl" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin-right:10px; margin-bottom:10px;"/> 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="margin-right:10px; margin-bottom:10px;"/> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="margin-right:10px; margin-bottom:10px;"/>
 </div>
 
@@ -20,10 +27,19 @@ Hello Everyone,
 <div style="margin-top:20px;">
 <h3>Frameworks JS:</h3>
 <!-- Badges Front-end -->
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin-right:10px; margin-bottom:10px;"/> 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt" style="margin-right:10px; margin-bottom:10px;"/>
+</div>
+
+<div style="margin-top:20px;">
+<h3>Backend:</h3>
+<!-- Badges Front-end -->
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="margin-right:10px; margin-bottom:10px;"/> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" style="margin-right:10px; margin-bottom:10px;"/>
 </div>
 
 </br>
@@ -50,7 +66,7 @@ Currently I'm studying:
 
 <div style="margin-top:20px;">
 <h3>Connect with me:</h3>
-<!-- Badges Front-end --> 
+<!-- Badges Social --> 
 <a href="https://www.linkedin.com/in/alexgsalgado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="margin-right:10px; margin-bottom:10px;"/></a>
 <a href="https://twitter.com/AlextSalg"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-right:10px; margin-bottom:10px;"/></a>
 <a href="https://www.twitch.tv/alexdrogo_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch" style="margin-right:10px; margin-bottom:10px;"/></a>
