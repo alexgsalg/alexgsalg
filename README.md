@@ -11,14 +11,22 @@ Hello Everyone,
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge//TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JS" style="margin-right:10px; margin-bottom:10px;"/>
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQl" style="margin-right:10px; margin-bottom:10px;"/>
   <br />
   
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" style="margin-right:10px; margin-bottom:10px;"/>
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQl" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" alt="Jasmine" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" style="margin-right:10px; margin-bottom:10px;"/>
+<br />
+
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin-right:10px; margin-bottom:10px;"/> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind_CSS" style="margin-right:10px; margin-bottom:10px;"/> 
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" style="margin-right:10px; margin-bottom:10px;"/> 
+<img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" alt="Material design" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="margin-right:10px; margin-bottom:10px;"/>
 </div>
@@ -28,18 +36,24 @@ Hello Everyone,
 <h3>Frameworks JS:</h3>
 <!-- Badges Front-end -->
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin-right:10px; margin-bottom:10px;"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" style="margin-right:10px; margin-bottom:10px;"/> 
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin-right:10px; margin-bottom:10px;"/> 
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white" alt="React_Query" style="margin-right:10px; margin-bottom:10px;"/> 
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt" style="margin-right:10px; margin-bottom:10px;"/>
 </div>
+
 
 <div style="margin-top:20px;">
 <h3>Backend:</h3>
 <!-- Badges Front-end -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger" style="margin-right:10px; margin-bottom:10px;"/>
 </div>
 
 </br>
