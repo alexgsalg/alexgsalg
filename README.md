@@ -21,7 +21,9 @@ Hello Everyone,
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin-right:10px; margin-bottom:10px;"/> 
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white" alt="React_Query" style="margin-right:10px; margin-bottom:10px;"/> 
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled components" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt" style="margin-right:10px; margin-bottom:10px;"/>
 </div>
@@ -52,6 +54,7 @@ Hello Everyone,
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" style="margin-right:10px; margin-bottom:10px;"/>
 </div>
 <br />
 
@@ -59,6 +62,8 @@ Hello Everyone,
 <h3>Backend:</h3>
 <!-- Badges Front-end -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" style="margin-right:10px; margin-bottom:10px;"/>
+  https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" style="margin-right:10px; margin-bottom:10px;"/>
@@ -70,12 +75,11 @@ Hello Everyone,
 </br>
 ---
 
-<!-- <div style="width:50%;">
-<h3>
-Currently I'm studying:
-</h3>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Angular" style="margin-right:10px; margin-bottom:10px;"/>
-</div> -->
+<div style="width:50%;">
+<h3>Currently I'm studying:</h3>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="margin-right:10px; margin-bottom:10px;"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="margin-right:10px; margin-bottom:10px;"/>
+</div>
 
 <div style="width:50%;">
 <h3>Design UI:</h3>
