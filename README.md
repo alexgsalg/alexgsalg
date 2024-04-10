@@ -63,7 +63,6 @@ Hello Everyone,
 <!-- Badges Front-end -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" style="margin-right:10px; margin-bottom:10px;"/>
-  https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="margin-right:10px; margin-bottom:10px;"/> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" style="margin-right:10px; margin-bottom:10px;"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" style="margin-right:10px; margin-bottom:10px;"/>
